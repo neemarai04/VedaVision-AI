@@ -84,7 +84,6 @@ The following API endpoints are available:
 ├── vectorstore/
 │   └── db_faiss/
 ├── .env
-├── 2.jpg
 ├── ayurvedic_data.csv
 ├── class_names.json
 ├── main.py
