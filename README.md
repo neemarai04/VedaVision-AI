@@ -27,7 +27,7 @@ Veda Vision AI is a web application that combines computer vision and natural la
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Ayushpk01/VEDA-VISION-AI-V1.git
+    git clone https://github.com/neemarai04/VedaVision-AI.git
     ```
 2.  **Create a virtual environment and activate it:**
     ```bash
