@@ -1,0 +1,170 @@
+[
+    {
+        "question": "Describe your body Size?",
+        "options": {
+            "A": "Slim",
+            "B": "Medium",
+            "C": "Large"
+        }
+    },
+    {
+        "question": "What is your body weight?",
+        "options": {
+            "A": "Low - difficulties in gaining weight",
+            "B": "Moderate - no difficulties in gaining or losing weight",
+            "C": "Heavy - difficulties in losing weight"
+        }
+    },
+    {
+        "question": "What is your height?",
+        "options": {
+            "A": "Short",
+            "B": "Average",
+            "C": "Tall"
+        }
+    },
+    {
+        "question": "What is your bone structure?",
+        "options": {
+            "A": "Light, Small bones, prominent joints",
+            "B": "Medium bone structure",
+            "C": "Large, broad shoulders, heavy bone structure"
+        }
+    },
+    {
+        "question": "How prominent are your veins/tendons?",
+        "options": {
+            "A": "Very visible and prominent",
+            "B": "Moderately visible",
+            "C": "Not very visible, covered by flesh"
+        }
+    },
+    {
+        "question": "What is your complexion?",
+        "options": {
+            "A": "Dark-Complexion, tans easily",
+            "B": "Fair-skin, sunburns easily",
+            "C": "White, pale, tans easily"
+        }
+    },
+    {
+        "question": "Describe the general feel of skin",
+        "options": {
+            "A": "Dry and thin, cool to touch, rough",
+            "B": "Smooth and warm, oily T-zone",
+            "C": "Thick and moist/greasy, cold"
+        }
+    },
+    {
+        "question": "Describe the skin texture",
+        "options": {
+            "A": "Dry, pigments and aging",
+            "B": "Freckles, many moles, redness and rashes",
+            "C": "Oily"
+        }
+    },
+    {
+        "question": "What is your hair colour?",
+        "options": {
+            "A": "Black/Brown, dull",
+            "B": "Red, light brown, yellow",
+            "C": "Brown"
+        }
+    },
+    {
+        "question": "Describe the appearance of your hair",
+        "options": {
+            "A": "Dry, black, knotted, brittle",
+            "B": "Straight, oily",
+            "C": "Thick, curly"
+        }
+    },
+    {
+        "question": "Describe the shape of face",
+        "options": {
+            "A": "Long, angular, thin",
+            "B": "Heart-shaped, pointed chin",
+            "C": "Large, round, full"
+        }
+    },
+    {
+        "question": "Describe your eyes",
+        "options": {
+            "A": "Small, active, darting, dark eyes",
+            "B": "Medium-sized, penetrating, light-sensitive eyes",
+            "C": "Big, round, beautiful, glowing eyes"
+        }
+    },
+    {
+        "question": "Describe your eyelashes",
+        "options": {
+            "A": "Scanty eyelashes",
+            "B": "Moderate eyelashes",
+            "C": "Thick/Fused eyelashes"
+        }
+    },
+    {
+        "question": "How often do you blink your eyes?",
+        "options": {
+            "A": "Excessive Blinking",
+            "B": "Moderate Blinking",
+            "C": "More or less stable"
+        }
+    },
+    {
+        "question": "How are your cheeks?",
+        "options": {
+            "A": "Wrinkled, Sunken",
+            "B": "Smooth, Flat",
+            "C": "Rounded, Plump"
+        }
+    },
+    {
+        "question": "How is your nose?",
+        "options": {
+            "A": "Crooked, Narrow",
+            "B": "Pointed, Average",
+            "C": "Rounded, Large open nostrils"
+        }
+    },
+    {
+        "question": "Describe your teeth and gums",
+        "options": {
+            "A": "Irregular, Protruding teeth, Receding gums",
+            "B": "Medium-sized teeth, Reddish gums",
+            "C": "Big, White, Strong teeth, Healthy gums"
+        }
+    },
+    {
+        "question": "How are your lips?",
+        "options": {
+            "A": "Tight, thin, dry lips which chaps easily",
+            "B": "Lips are soft, medium-sized",
+            "C": "Lips are large, soft, pink, and full"
+        }
+    },
+    {
+        "question": "How are your nails?",
+        "options": {
+            "A": "Dry, Rough, Brittle, Break",
+            "B": "Sharp, Flexible, Pink, Lustrous",
+            "C": "Thick, Oily, Smooth, Polished"
+        }
+    },
+    {
+        "question": "What is your appetite like?",
+        "options": {
+            "A": "Irregular, Scanty",
+            "B": "Strong, Unbearable",
+            "C": "Slow but steady"
+        }
+    },
+    {
+        "question": "What are some of your likable tastes?",
+        "options": {
+            "A": "Sweet / Sour / Salty",
+            "B": "Sweet / Bitter / Astringent",
+            "C": "Pungent / Bitter / Astringent"
+        }
+    }
+]

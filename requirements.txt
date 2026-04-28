@@ -1,0 +1,22 @@
+# --- Core Machine Learning & Data Handling ---
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+pandas>=2.0.0
+pillow>=10.0.0
+
+# --- Google Gemini & Generative AI ---
+google-generativeai>=0.4.0
+
+# --- Web Framework (FastAPI) ---
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.0
+
+# --- LangChain & RAG Ecosystem ---
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=1.0.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
